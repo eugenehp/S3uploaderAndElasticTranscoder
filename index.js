@@ -6,14 +6,16 @@ var ElasticTranscoder = require(__dirname+'/elastictranscoder.js');
 
 var s3 = new AWS.S3();
 
-var originalFilename = "demo.flv";
+var fullFilename = "demo.flv";
 
 if(process.argv.length>=3)
-   originalFilename = process.argv[2];
+   fullFilename = process.argv[2];
 
-fs.readFile(originalFilename, function(err,data){
+fs.readFile(fullFilename, function(err,data){
    if (err) { throw err; }
    
+   var originalFilename = fullFilename.split('/').pop();
+
    s3.client.headObject({
       Bucket: config.S3.input,
       Key: originalFilename
