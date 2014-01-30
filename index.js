@@ -1,8 +1,8 @@
 var AWS = require('aws-sdk');
 var fs = require('fs');
-var config = require('./config.json');
-AWS.config.loadFromPath('./credentials.json');
-var ElasticTranscoder = require('./elastictranscoder.js');
+var config = require(__dirname+'/config.json');
+AWS.config.loadFromPath(__dirname+'/credentials.json');
+var ElasticTranscoder = require(__dirname+'/elastictranscoder.js');
 
 var s3 = new AWS.S3();
 
@@ -11,7 +11,7 @@ var originalFilename = "demo.flv";
 if(process.argv.length>=3)
    originalFilename = process.argv[2];
 
-fs.readFile(originalFilename, function(err,data){
+fs.readFile(__dirname+'/'+originalFilename, function(err,data){
    if (err) { throw err; }
    
    s3.client.headObject({
