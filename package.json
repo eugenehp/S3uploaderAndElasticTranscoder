@@ -1,0 +1,28 @@
+{
+  "name": "S3uploaderAndElasticTranscoder",
+  "version": "0.0.1",
+  "description": "AWS SDK based file S3 uploader and Elastic Transcoder Creator",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "~2.0.0-rc8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eugenehp/S3uploaderAndElasticTranscoder.git"
+  },
+  "keywords": [
+    "AWS",
+    "S3",
+    "ElasticTranscoder"
+  ],
+  "author": "Eugene HP",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/eugenehp/S3uploaderAndElasticTranscoder/issues"
+  }
+}
