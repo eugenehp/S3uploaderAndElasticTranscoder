@@ -1,0 +1,30 @@
+{
+	"S3":{
+		"input": "celebvm-input-video",
+		"output": "celebvm-output-video",
+	},
+	"PipelineId":"1390957473527-0bnqqi",
+	"HLS": {
+		"2M": {
+			"PresetId":"1351620000001-200010"
+		},
+		"1.5M": {
+			"PresetId":"1351620000001-200020"
+		},
+		"1M": {
+			"PresetId":"1351620000001-200030"
+		},
+		"600k": {
+			"PresetId":"1351620000001-200040"
+		},
+		"400k": {
+			"PresetId":"1351620000001-200050"
+		}
+	},
+	"WebM": {
+		"PresetId":"1390965036083-imf6bl"
+	},
+	"Web": {
+		"PresetId":"1351620000001-100070"
+	}
+}
