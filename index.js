@@ -8,6 +8,9 @@ var s3 = new AWS.S3();
 
 var originalFilename = "demo.flv";
 
+if(process.argv.length>=3)
+   originalFilename = process.argv[2];
+
 fs.readFile(originalFilename, function(err,data){
    if (err) { throw err; }
    
