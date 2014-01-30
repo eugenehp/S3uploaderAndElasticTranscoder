@@ -4,7 +4,9 @@
   "description": "AWS SDK based file S3 uploader and Elastic Transcoder Creator",
   "main": "index.js",
   "dependencies": {
-    "aws-sdk": "~2.0.0-rc8"
+    "aws-sdk": "~2.0.0-rc8",
+    "winston-filerotatedate": "~0.1.7",
+    "winston": "~0.7.2"
   },
   "devDependencies": {},
   "scripts": {
