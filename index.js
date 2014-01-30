@@ -15,6 +15,7 @@ fs.readFile(fullFilename, function(err,data){
    if (err) { throw err; }
    
    var originalFilename = fullFilename.split('/').pop();
+   console.log('originalFilename',originalFilename);
 
    s3.client.headObject({
       Bucket: config.S3.input,
