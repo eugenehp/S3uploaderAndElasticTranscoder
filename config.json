@@ -1,7 +1,7 @@
 {
 	"S3":{
 		"input": "celebvm-input-video",
-		"output": "celebvm-output-video",
+		"output": "celebvm-output-video"
 	},
 	"PipelineId":"1390957473527-0bnqqi",
 	"HLS": {

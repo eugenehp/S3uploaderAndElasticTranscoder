@@ -17,7 +17,7 @@ And run with the `node index.js`
 
 ### FYI
 
-Always make sure you have proper `PresetId` for your availability zone, the same rule for PipelineId and zone.
+Always make sure you have proper `PresetId` for your availability zone, the same rule for `PipelineId` and zone.
 
 ## License
 

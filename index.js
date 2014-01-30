@@ -1,94 +1,40 @@
 var AWS = require('aws-sdk');
+var fs = require('fs');
 var config = require('./config.json');
 AWS.config.loadFromPath('./credentials.json');
-var elastictranscoder = new AWS.ElasticTranscoder({apiVersion: '2012-09-25'});
+var ElasticTranscoder = require('./elastictranscoder.js');
 
-console.log(config);
+var s3 = new AWS.S3();
 
-var original = "demo.flv";
-var filename = original.split('.')[0];
+var originalFilename = "demo.flv";
 
-var params = {
-	"Input":{
-      "Key":original,
-      "FrameRate":"auto",
-      "Resolution":"auto",
-      "AspectRatio":"auto",
-      "Interlaced":"auto",
-      "Container":"mp4"
-   },
-   "OutputKeyPrefix":filename+"/",
-   "Outputs":[
-      {
-         "Key":"iphone/"+filename+"-2M",
-         "ThumbnailPattern":"iphone/th2M/"+filename+"-{count}",
-         "Rotate":"0",
-         "PresetId":config.HLS['2M'].PresetId,
-         "SegmentDuration":"5"
-      },
-      {
-         "Key":"iphone/"+filename+"-1.5M",
-         "ThumbnailPattern":"iphone/th1.5M/"+filename+"-{count}",
-         "Rotate":"0",
-         "PresetId":config.HLS['1.5M'].PresetId,
-         "SegmentDuration":"5"
-      },
-      {
-         "Key":"iphone/"+filename+"-1M",
-         "ThumbnailPattern":"iphone/th1M/"+filename+"-{count}",
-         "Rotate":"0",
-         "PresetId":config.HLS['1M'].PresetId,
-         "SegmentDuration":"5"
-      },
-      {
-         "Key":"iphone/"+filename+"-600k",
-         "ThumbnailPattern":"iphone/th600k/"+filename+"-{count}",
-         "Rotate":"0",
-         "PresetId":config.HLS['600k'].PresetId,
-         "SegmentDuration":"5"
-      },
-      {
-         "Key":"iphone/"+filename+"-400k",
-         "ThumbnailPattern":"iphone/th400k/"+filename+"-{count}",
-         "Rotate":"0",
-         "PresetId":config.HLS['400k'].PresetId,
-         "SegmentDuration":"5"
-      },
-      {
-      	"Key":"webm/"+filename+".webm",
-      	"ThumbnailPattern":"webm/"+filename+"-{count}",
-      	"Rotate":"0",
-      	"PresetId":config.WebM.PresetId
-      },
-      {
-      	"Key":"web/"+filename+".mp4",
-      	"ThumbnailPattern":"web/"+filename+"-{count}",
-      	"Rotate":"0",
-      	"PresetId":config.Web.PresetId
+fs.readFile(originalFilename, function(err,data){
+   if (err) { throw err; }
+   
+   s3.client.headObject({
+      Bucket: config.S3.input,
+      Key: originalFilename
+   },function(err,response){
+      if(!err && response['ContentLength']){
+         console.log('looks like file exists already',response);
+         uploadFile(new Date().getTime() + "-" + originalFilename,data);
+      }else{
+         uploadFile(originalFilename,data);
       }
-   ],
-   "Playlists": [
-      {
-         "Format": "HLSv3",
-         "Name": "playlist-iPhone-"+filename,
-         "OutputKeys": [
-            "iphone/"+filename+"-2M",
-            "iphone/"+filename+"-1.5M",
-            "iphone/"+filename+"-1M",
-            "iphone/"+filename+"-600k",
-            "iphone/"+filename+"-400k"
-         ]
-      }
-   ],
-   "PipelineId":config.PipelineId
-};
-var callback = function(err, data){
-	if(err)
-		console.log(err);
-	else
-		console.log(data);
+   })
+});
+
+function uploadFile(filename,data){
+   console.log("Trying to upload file",filename,data.length,'bytes');
+   s3.client.putObject({
+      Bucket: config.S3.input,
+      Key: filename,
+      Body: data
+   },function (err,data) {
+      if(!err){
+         console.log('Successfully uploaded package.\n',data);
+         new ElasticTranscoder(AWS,config,filename);
+      }else
+         throw err;
+   });
 }
-
-// elastictranscoder.createJob(params, callback);
-// elastictranscoder.listPipelines({},callback);
-// elastictranscoder.readJob({Id:"1391012229363-mokb38"},callback);
