@@ -11,7 +11,7 @@ var originalFilename = "demo.flv";
 if(process.argv.length>=3)
    originalFilename = process.argv[2];
 
-fs.readFile(__dirname+'/'+originalFilename, function(err,data){
+fs.readFile(originalFilename, function(err,data){
    if (err) { throw err; }
    
    s3.client.headObject({
