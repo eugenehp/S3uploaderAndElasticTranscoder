@@ -13,7 +13,11 @@ Please make sure first you have created the `credentials.json` with all needed d
 { "accessKeyId": "YOUR_KEY", "secretAccessKey": "YOUR_SECRET", "region": "us-east-1" }
 ```
 <br>
-And run with the `node index.js`
+And run with the `node index.js` modifications!
+
+### ForEachFile.js
+This one goes thru hardcoded path and call the funtion for each MP4 files (without _ in name and 'backup' word in it)
+Used to process the old backup of video files
 
 ### FYI
 

@@ -1144,3 +1144,481 @@
 {"level":"info","message":"originalFilename 1386348537902_789.mp4","timestamp":"2014-01-31T21:58:36.447Z"}
 {"level":"info","message":"Trying to upload file 1386348537902_789.mp4 282695 bytes","timestamp":"2014-01-31T21:58:37.007Z"}
 {"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386348537902_789.mp4","timestamp":"2014-01-31T21:58:37.011Z"}
+{"ETag":"\"d1d70732b12ec6095ec5c17380267006\"","RequestId":"C99E6ADBA77F37E8","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:58:38.382Z"}
+{"level":"info","message":"originalFilename 1386348588050_454.mp4","timestamp":"2014-01-31T21:58:39.241Z"}
+{"level":"info","message":"Trying to upload file 1386348588050_454.mp4 21098 bytes","timestamp":"2014-01-31T21:58:39.805Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386348588050_454.mp4","timestamp":"2014-01-31T21:58:39.808Z"}
+{"ETag":"\"a231ae925d65c2c2e3b56b34b63cc2bf\"","RequestId":"A5EFAEE70A2C63BA","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:58:40.664Z"}
+{"level":"info","message":"originalFilename 1386348591464_588.mp4","timestamp":"2014-01-31T21:58:41.406Z"}
+{"level":"info","message":"Trying to upload file 1386348591464_588.mp4 384849 bytes","timestamp":"2014-01-31T21:58:41.969Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386348591464_588.mp4","timestamp":"2014-01-31T21:58:41.972Z"}
+{"ETag":"\"920e6963ae0b2a407dc686f6ca9e59ab\"","RequestId":"97B96BF6BF4806F4","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:58:44.819Z"}
+{"level":"info","message":"originalFilename 1386348646635_115.mp4","timestamp":"2014-01-31T21:58:45.619Z"}
+{"level":"info","message":"Trying to upload file 1386348646635_115.mp4 623944 bytes","timestamp":"2014-01-31T21:58:46.170Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386348646635_115.mp4","timestamp":"2014-01-31T21:58:46.175Z"}
+{"ETag":"\"2af5acd82e85d7b25b925ec7feb4f298\"","RequestId":"39306FF9E032ACA0","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:58:47.967Z"}
+{"level":"info","message":"originalFilename 1386348697402_794.mp4","timestamp":"2014-01-31T21:58:50.051Z"}
+{"level":"info","message":"Trying to upload file 1386348697402_794.mp4 685439 bytes","timestamp":"2014-01-31T21:58:50.607Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386348697402_794.mp4","timestamp":"2014-01-31T21:58:50.650Z"}
+{"ETag":"\"8c1d4371da43a18632d24ce555d42b06\"","RequestId":"8DAEDFCF573FCB5C","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:58:52.398Z"}
+{"level":"info","message":"originalFilename 1386348782005_576.mp4","timestamp":"2014-01-31T21:58:53.202Z"}
+{"level":"info","message":"Trying to upload file 1386348782005_576.mp4 551463 bytes","timestamp":"2014-01-31T21:58:53.765Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386348782005_576.mp4","timestamp":"2014-01-31T21:58:53.786Z"}
+{"ETag":"\"77b9d58bcbc511ff383c911897c63fd7\"","RequestId":"F5E34B0986FC82A3","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:58:55.438Z"}
+{"level":"info","message":"originalFilename 1386348941731_44.mp4","timestamp":"2014-01-31T21:58:56.264Z"}
+{"level":"info","message":"Trying to upload file 1386348941731_44.mp4 106964 bytes","timestamp":"2014-01-31T21:58:56.808Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386348941731_44.mp4","timestamp":"2014-01-31T21:58:56.814Z"}
+{"ETag":"\"c7355584c0efb270270f529068d10f79\"","RequestId":"F0848F4D4D9F7CEA","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:58:57.954Z"}
+{"level":"info","message":"originalFilename 1386348950524_19.mp4","timestamp":"2014-01-31T21:58:58.706Z"}
+{"level":"info","message":"Trying to upload file 1386348950524_19.mp4 167137 bytes","timestamp":"2014-01-31T21:58:59.293Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386348950524_19.mp4","timestamp":"2014-01-31T21:58:59.339Z"}
+{"ETag":"\"ac83e07098051e93666a738b5d7b56c4\"","RequestId":"266291CC52600E8C","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:59:00.537Z"}
+{"level":"info","message":"originalFilename 1386348959238_945.mp4","timestamp":"2014-01-31T21:59:01.310Z"}
+{"level":"info","message":"Trying to upload file 1386348959238_945.mp4 127439 bytes","timestamp":"2014-01-31T21:59:01.879Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386348959238_945.mp4","timestamp":"2014-01-31T21:59:01.882Z"}
+{"ETag":"\"537e2d8c0d0d07f49069c2e0d3da4630\"","RequestId":"29BB3323672B6EA9","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:59:03.041Z"}
+{"level":"info","message":"originalFilename 1386348967036_294.mp4","timestamp":"2014-01-31T21:59:03.793Z"}
+{"level":"info","message":"Trying to upload file 1386348967036_294.mp4 479653 bytes","timestamp":"2014-01-31T21:59:04.801Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386348967036_294.mp4","timestamp":"2014-01-31T21:59:04.805Z"}
+{"ETag":"\"e81fc66d034df83c34ddf40fcc5ff04d\"","RequestId":"80B33EA54D6049D2","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:59:06.410Z"}
+{"level":"info","message":"originalFilename 1386348988342_61.mp4","timestamp":"2014-01-31T21:59:07.159Z"}
+{"level":"info","message":"Trying to upload file 1386348988342_61.mp4 765756 bytes","timestamp":"2014-01-31T21:59:07.709Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386348988342_61.mp4","timestamp":"2014-01-31T21:59:07.754Z"}
+{"ETag":"\"e4b94a53668833e6e9654a05f6ee2235\"","RequestId":"96F3E42545991370","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:59:09.562Z"}
+{"level":"info","message":"originalFilename 1386349329890_125.mp4","timestamp":"2014-01-31T21:59:10.312Z"}
+{"level":"info","message":"Trying to upload file 1386349329890_125.mp4 71423 bytes","timestamp":"2014-01-31T21:59:10.883Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386349329890_125.mp4","timestamp":"2014-01-31T21:59:10.888Z"}
+{"ETag":"\"6398f689e25e85ebfddca7a4a4659aad\"","RequestId":"C410662920328767","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:59:11.987Z"}
+{"level":"info","message":"originalFilename 1386349388657_426.mp4","timestamp":"2014-01-31T21:59:12.708Z"}
+{"level":"info","message":"Trying to upload file 1386349388657_426.mp4 295094 bytes","timestamp":"2014-01-31T21:59:13.279Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386349388657_426.mp4","timestamp":"2014-01-31T21:59:13.282Z"}
+{"ETag":"\"c7d7d360e26b74d29f58e2568369ab74\"","RequestId":"F5992E9826055294","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:59:14.664Z"}
+{"level":"info","message":"originalFilename 1386349404061_214.mp4","timestamp":"2014-01-31T21:59:16.016Z"}
+{"level":"info","message":"Trying to upload file 1386349404061_214.mp4 227920 bytes","timestamp":"2014-01-31T21:59:16.573Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386349404061_214.mp4","timestamp":"2014-01-31T21:59:16.576Z"}
+{"ETag":"\"ae5fcced7ec829081e83c4cc446a326d\"","RequestId":"2DB333DD0EF1F89E","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:59:17.928Z"}
+{"level":"info","message":"originalFilename 1386349439154_975.mp4","timestamp":"2014-01-31T21:59:18.680Z"}
+{"level":"info","message":"Trying to upload file 1386349439154_975.mp4 301966 bytes","timestamp":"2014-01-31T21:59:19.300Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386349439154_975.mp4","timestamp":"2014-01-31T21:59:19.347Z"}
+{"ETag":"\"9ff755bbd31a016f1c06de782c688878\"","RequestId":"4220A8837F814456","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:59:20.977Z"}
+{"level":"info","message":"originalFilename 1386349453753_576.mp4","timestamp":"2014-01-31T21:59:21.691Z"}
+{"level":"info","message":"Trying to upload file 1386349453753_576.mp4 34719 bytes","timestamp":"2014-01-31T21:59:22.270Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386349453753_576.mp4","timestamp":"2014-01-31T21:59:22.283Z"}
+{"ETag":"\"62d6ca4a64603bed22cea4bebf77aa9d\"","RequestId":"96DD3060BBFEA3BA","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:59:23.233Z"}
+{"level":"info","message":"originalFilename 1386349456156_486.mp4","timestamp":"2014-01-31T21:59:23.959Z"}
+{"level":"info","message":"Trying to upload file 1386349456156_486.mp4 299440 bytes","timestamp":"2014-01-31T21:59:24.527Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386349456156_486.mp4","timestamp":"2014-01-31T21:59:24.530Z"}
+{"ETag":"\"99d86e25f7817a7cdc8ea675e380879e\"","RequestId":"DC4EE729B1F4DA40","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:59:25.980Z"}
+{"level":"info","message":"originalFilename 1386358819917_108.mp4","timestamp":"2014-01-31T21:59:26.775Z"}
+{"level":"info","message":"Trying to upload file 1386358819917_108.mp4 366933 bytes","timestamp":"2014-01-31T21:59:27.379Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386358819917_108.mp4","timestamp":"2014-01-31T21:59:27.383Z"}
+{"ETag":"\"6f15fbe517a3a8c1c9ad5a09e4f67cc8\"","RequestId":"F91AB9EE154AFAD6","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:59:28.862Z"}
+{"level":"info","message":"originalFilename 1386358837482_409.mp4","timestamp":"2014-01-31T21:59:29.585Z"}
+{"level":"info","message":"Trying to upload file 1386358837482_409.mp4 470005 bytes","timestamp":"2014-01-31T21:59:30.130Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386358837482_409.mp4","timestamp":"2014-01-31T21:59:30.135Z"}
+{"ETag":"\"56f8b58374a2018fce486c465dee5812\"","RequestId":"2621C3A8E73A5DFE","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:59:31.737Z"}
+{"level":"info","message":"originalFilename 1386358931751_913.mp4","timestamp":"2014-01-31T21:59:32.546Z"}
+{"level":"info","message":"Trying to upload file 1386358931751_913.mp4 428935 bytes","timestamp":"2014-01-31T21:59:33.111Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386358931751_913.mp4","timestamp":"2014-01-31T21:59:33.116Z"}
+{"ETag":"\"c690997da801be6778711a50dd295210\"","RequestId":"8CD6CF82236FD041","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:59:34.594Z"}
+{"level":"info","message":"originalFilename 1386359370770_878.mp4","timestamp":"2014-01-31T21:59:35.374Z"}
+{"level":"info","message":"Trying to upload file 1386359370770_878.mp4 40686 bytes","timestamp":"2014-01-31T21:59:35.931Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386359370770_878.mp4","timestamp":"2014-01-31T21:59:35.933Z"}
+{"ETag":"\"eb07ccf3866b9b77d690e665dcfe87e6\"","RequestId":"6BAFA5B7D328B962","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:59:36.872Z"}
+{"level":"info","message":"originalFilename 1386367661110_969.mp4","timestamp":"2014-01-31T21:59:37.598Z"}
+{"level":"info","message":"Trying to upload file 1386367661110_969.mp4 122800 bytes","timestamp":"2014-01-31T21:59:38.178Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386367661110_969.mp4","timestamp":"2014-01-31T21:59:38.180Z"}
+{"ETag":"\"1198c64166dfa6bc300399e06f32f0af\"","RequestId":"7F7CC9BA39740BD9","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:59:39.308Z"}
+{"level":"info","message":"originalFilename 1386367718925_912.mp4","timestamp":"2014-01-31T21:59:40.162Z"}
+{"level":"info","message":"Trying to upload file 1386367718925_912.mp4 141137 bytes","timestamp":"2014-01-31T21:59:40.722Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386367718925_912.mp4","timestamp":"2014-01-31T21:59:40.725Z"}
+{"ETag":"\"df0823363deffde4fb147d27abbd663e\"","RequestId":"0317A7B956E43E85","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:59:41.944Z"}
+{"level":"info","message":"originalFilename 1386367827292_789.mp4","timestamp":"2014-01-31T21:59:42.829Z"}
+{"level":"info","message":"Trying to upload file 1386367827292_789.mp4 133605 bytes","timestamp":"2014-01-31T21:59:43.384Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386367827292_789.mp4","timestamp":"2014-01-31T21:59:43.388Z"}
+{"ETag":"\"c441f37132623d75464e56b5f4fa3a68\"","RequestId":"2B9096823A0B6662","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:59:44.553Z"}
+{"level":"info","message":"originalFilename 1386368581942_448.mp4","timestamp":"2014-01-31T21:59:45.386Z"}
+{"level":"info","message":"Trying to upload file 1386368581942_448.mp4 118416 bytes","timestamp":"2014-01-31T21:59:45.992Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386368581942_448.mp4","timestamp":"2014-01-31T21:59:45.996Z"}
+{"ETag":"\"12b649d8c7ab28fb38af018a29118b72\"","RequestId":"868641A0AC2FEC4C","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:59:47.214Z"}
+{"level":"info","message":"originalFilename 1386368666420_419.mp4","timestamp":"2014-01-31T21:59:48.001Z"}
+{"level":"info","message":"Trying to upload file 1386368666420_419.mp4 448677 bytes","timestamp":"2014-01-31T21:59:48.543Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386368666420_419.mp4","timestamp":"2014-01-31T21:59:48.547Z"}
+{"ETag":"\"65b5400eb1a6f2e57f3f422fd38827d1\"","RequestId":"F906920D492F20F7","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:59:50.597Z"}
+{"level":"info","message":"originalFilename 1386368988589_21.mp4","timestamp":"2014-01-31T21:59:51.434Z"}
+{"level":"info","message":"Trying to upload file 1386368988589_21.mp4 309687 bytes","timestamp":"2014-01-31T21:59:52.003Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386368988589_21.mp4","timestamp":"2014-01-31T21:59:52.007Z"}
+{"ETag":"\"3c7eb63eed7e892e39574f5c8f164dd6\"","RequestId":"A31E42856D181A35","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:59:53.385Z"}
+{"level":"info","message":"originalFilename 1386369024255_365.mp4","timestamp":"2014-01-31T21:59:54.171Z"}
+{"level":"info","message":"Trying to upload file 1386369024255_365.mp4 187445 bytes","timestamp":"2014-01-31T21:59:54.730Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386369024255_365.mp4","timestamp":"2014-01-31T21:59:54.733Z"}
+{"ETag":"\"b36743f59e5768cd36d3d8d8faa3a48e\"","RequestId":"E3C608C5F30AF83C","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T21:59:55.997Z"}
+{"level":"info","message":"originalFilename 1386369249901_140.mp4","timestamp":"2014-01-31T21:59:56.745Z"}
+{"level":"info","message":"Trying to upload file 1386369249901_140.mp4 319869 bytes","timestamp":"2014-01-31T22:00:00.386Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386369249901_140.mp4","timestamp":"2014-01-31T22:00:00.391Z"}
+{"ETag":"\"edd71a6f7a8406f026bd032ff50df2bd\"","RequestId":"B76681D94459FA06","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:00:01.783Z"}
+{"level":"info","message":"originalFilename 1386369380224_134.mp4","timestamp":"2014-01-31T22:00:02.500Z"}
+{"level":"info","message":"Trying to upload file 1386369380224_134.mp4 239718 bytes","timestamp":"2014-01-31T22:00:03.492Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386369380224_134.mp4","timestamp":"2014-01-31T22:00:03.496Z"}
+{"ETag":"\"b24c76f4df5f65cf5c3f4715d0cd661c\"","RequestId":"C0041C8583D71215","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:00:04.726Z"}
+{"level":"info","message":"originalFilename 1386369469628_909.mp4","timestamp":"2014-01-31T22:00:05.546Z"}
+{"level":"info","message":"Trying to upload file 1386369469628_909.mp4 60503 bytes","timestamp":"2014-01-31T22:00:06.110Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386369469628_909.mp4","timestamp":"2014-01-31T22:00:06.114Z"}
+{"ETag":"\"fdbcce22d4fa68cc89d564c9f2df8f9c\"","RequestId":"2941A5498F89D7F2","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:00:07.097Z"}
+{"level":"info","message":"originalFilename 1386370089370_942.mp4","timestamp":"2014-01-31T22:00:07.867Z"}
+{"level":"info","message":"Trying to upload file 1386370089370_942.mp4 176334 bytes","timestamp":"2014-01-31T22:00:08.429Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386370089370_942.mp4","timestamp":"2014-01-31T22:00:08.432Z"}
+{"ETag":"\"0bb57f0495b87ff887fb284d27047ca7\"","RequestId":"E01A63AC585CE30E","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:00:09.672Z"}
+{"level":"info","message":"originalFilename 1386370170589_341.mp4","timestamp":"2014-01-31T22:00:10.534Z"}
+{"level":"info","message":"Trying to upload file 1386370170589_341.mp4 344556 bytes","timestamp":"2014-01-31T22:00:11.081Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386370170589_341.mp4","timestamp":"2014-01-31T22:00:11.087Z"}
+{"ETag":"\"a1c6905aa5da46f07b4d2d2a6c0d85a2\"","RequestId":"9D905B98D028BAA0","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:00:12.575Z"}
+{"level":"info","message":"originalFilename 1386406419329_405.mp4","timestamp":"2014-01-31T22:00:13.310Z"}
+{"level":"info","message":"Trying to upload file 1386406419329_405.mp4 136769 bytes","timestamp":"2014-01-31T22:00:13.864Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386406419329_405.mp4","timestamp":"2014-01-31T22:00:13.867Z"}
+{"ETag":"\"99a03218ac5a9403a513a9c640a2855d\"","RequestId":"412774F67D394117","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:00:15.092Z"}
+{"level":"info","message":"originalFilename 1386406931895_5.mp4","timestamp":"2014-01-31T22:00:16.076Z"}
+{"level":"info","message":"Trying to upload file 1386406931895_5.mp4 391728 bytes","timestamp":"2014-01-31T22:00:16.642Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386406931895_5.mp4","timestamp":"2014-01-31T22:00:16.646Z"}
+{"ETag":"\"6ae6dc6e777959e471a77d7248a067f9\"","RequestId":"56023D6C7F4416AA","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:00:18.154Z"}
+{"level":"info","message":"originalFilename 1386406947746_120.mp4","timestamp":"2014-01-31T22:00:18.902Z"}
+{"level":"info","message":"Trying to upload file 1386406947746_120.mp4 425251 bytes","timestamp":"2014-01-31T22:00:19.455Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386406947746_120.mp4","timestamp":"2014-01-31T22:00:19.461Z"}
+{"ETag":"\"c4631c72aad97980afdb39c1cd773a0a\"","RequestId":"AEC77F1433CF8BCE","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:00:21.008Z"}
+{"level":"info","message":"originalFilename 1386406982381_893.mp4","timestamp":"2014-01-31T22:00:21.847Z"}
+{"level":"info","message":"Trying to upload file 1386406982381_893.mp4 105607 bytes","timestamp":"2014-01-31T22:00:22.398Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386406982381_893.mp4","timestamp":"2014-01-31T22:00:22.455Z"}
+{"ETag":"\"c078fb61276c09992aa7027414b324c7\"","RequestId":"AB6BB07647A10974","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:00:23.502Z"}
+{"level":"info","message":"originalFilename 1386407645202_923.mp4","timestamp":"2014-01-31T22:00:24.309Z"}
+{"level":"info","message":"Trying to upload file 1386407645202_923.mp4 4376903 bytes","timestamp":"2014-01-31T22:00:24.877Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386407645202_923.mp4","timestamp":"2014-01-31T22:00:24.894Z"}
+{"ETag":"\"03d6f3baa613cb5b3fa0639aeec8e6c0\"","RequestId":"3A153E8B86275C16","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:00:31.619Z"}
+{"level":"info","message":"originalFilename 1386407851797_303.mp4","timestamp":"2014-01-31T22:00:32.403Z"}
+{"level":"info","message":"Trying to upload file 1386407851797_303.mp4 214820 bytes","timestamp":"2014-01-31T22:00:32.959Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386407851797_303.mp4","timestamp":"2014-01-31T22:00:32.963Z"}
+{"ETag":"\"0df8be2a4fb6b4af15c9b546b43dd67c\"","RequestId":"D0B965A542A56999","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:00:34.533Z"}
+{"level":"info","message":"originalFilename 1386407861281_663.mp4","timestamp":"2014-01-31T22:00:35.254Z"}
+{"level":"info","message":"Trying to upload file 1386407861281_663.mp4 221155 bytes","timestamp":"2014-01-31T22:00:35.828Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386407861281_663.mp4","timestamp":"2014-01-31T22:00:35.831Z"}
+{"ETag":"\"a5b25de9b87a722e4138b4932607bf2b\"","RequestId":"C78DC125526346AB","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:00:38.013Z"}
+{"level":"info","message":"originalFilename 1386408708872_761.mp4","timestamp":"2014-01-31T22:00:38.840Z"}
+{"level":"info","message":"Trying to upload file 1386408708872_761.mp4 288008 bytes","timestamp":"2014-01-31T22:00:39.427Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386408708872_761.mp4","timestamp":"2014-01-31T22:00:39.430Z"}
+{"ETag":"\"34c9f562b5bf277e5ed2f8edc78f2e7f\"","RequestId":"CA2914FF969331B9","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:00:41.063Z"}
+{"level":"info","message":"originalFilename 1386408728004_635.mp4","timestamp":"2014-01-31T22:00:41.819Z"}
+{"level":"info","message":"Trying to upload file 1386408728004_635.mp4 287631 bytes","timestamp":"2014-01-31T22:00:42.687Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386408728004_635.mp4","timestamp":"2014-01-31T22:00:42.690Z"}
+{"ETag":"\"263d3baa3a3094ae909ab1941e076017\"","RequestId":"1EA3B9C92C2A9E16","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:00:44.633Z"}
+{"level":"info","message":"originalFilename 1386408749889_280.mp4","timestamp":"2014-01-31T22:00:45.394Z"}
+{"level":"info","message":"Trying to upload file 1386408749889_280.mp4 741595 bytes","timestamp":"2014-01-31T22:00:45.965Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386408749889_280.mp4","timestamp":"2014-01-31T22:00:45.971Z"}
+{"ETag":"\"bd80165105b8ba39a168de5ef03d2148\"","RequestId":"C44E7900267D52A3","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:00:49.834Z"}
+{"level":"info","message":"originalFilename 1386408943487_218.mp4","timestamp":"2014-01-31T22:00:50.568Z"}
+{"level":"info","message":"Trying to upload file 1386408943487_218.mp4 182895 bytes","timestamp":"2014-01-31T22:00:51.580Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386408943487_218.mp4","timestamp":"2014-01-31T22:00:51.583Z"}
+{"ETag":"\"f163eaf4dad7d80b5e8846bc86bc0037\"","RequestId":"2E292365357EFBBE","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:00:53.020Z"}
+{"level":"info","message":"originalFilename 1386409006803_653.mp4","timestamp":"2014-01-31T22:00:53.819Z"}
+{"level":"info","message":"Trying to upload file 1386409006803_653.mp4 353341 bytes","timestamp":"2014-01-31T22:00:54.367Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386409006803_653.mp4","timestamp":"2014-01-31T22:00:54.371Z"}
+{"ETag":"\"557da847208cfb3dd00a1794351ad71f\"","RequestId":"C36A87F54D1A8E0D","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:00:55.872Z"}
+{"level":"info","message":"originalFilename 1386409017593_193.mp4","timestamp":"2014-01-31T22:00:56.845Z"}
+{"level":"info","message":"Trying to upload file 1386409017593_193.mp4 5260014 bytes","timestamp":"2014-01-31T22:00:57.398Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386409017593_193.mp4","timestamp":"2014-01-31T22:00:57.430Z"}
+{"ETag":"\"fc537cb9f1fbf4ab5ee1d572217da7e4\"","RequestId":"AF711B7D328B0904","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:01:03.945Z"}
+{"level":"info","message":"originalFilename 1386524195536_616.mp4","timestamp":"2014-01-31T22:01:04.856Z"}
+{"level":"info","message":"Trying to upload file 1386524195536_616.mp4 37172 bytes","timestamp":"2014-01-31T22:01:05.415Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386524195536_616.mp4","timestamp":"2014-01-31T22:01:05.417Z"}
+{"ETag":"\"c9655824d5c029ecfdfd2597a63c257a\"","RequestId":"C6BE6AFC9587CD54","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:01:06.366Z"}
+{"level":"info","message":"originalFilename 1386524225027_924.mp4","timestamp":"2014-01-31T22:01:07.181Z"}
+{"level":"info","message":"Trying to upload file 1386524225027_924.mp4 52805 bytes","timestamp":"2014-01-31T22:01:07.748Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386524225027_924.mp4","timestamp":"2014-01-31T22:01:07.752Z"}
+{"ETag":"\"0a9d53e972a1114ba5b7272916174e02\"","RequestId":"35D42B11ED4AA45A","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:01:08.749Z"}
+{"level":"info","message":"originalFilename 1386530338605_893.mp4","timestamp":"2014-01-31T22:01:09.505Z"}
+{"level":"info","message":"Trying to upload file 1386530338605_893.mp4 521089 bytes","timestamp":"2014-01-31T22:01:10.064Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386530338605_893.mp4","timestamp":"2014-01-31T22:01:10.070Z"}
+{"ETag":"\"2f235b419c3c145f7499b5348895d680\"","RequestId":"EEFF69981ED9EE43","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:01:11.732Z"}
+{"level":"info","message":"originalFilename 1386530474592_79.mp4","timestamp":"2014-01-31T22:01:12.475Z"}
+{"level":"info","message":"Trying to upload file 1386530474592_79.mp4 141538 bytes","timestamp":"2014-01-31T22:01:13.025Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386530474592_79.mp4","timestamp":"2014-01-31T22:01:13.028Z"}
+{"ETag":"\"58f2d8e26c210ae0a25fe3f53e65580c\"","RequestId":"EE6BF4456864AB9D","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:01:14.255Z"}
+{"level":"info","message":"originalFilename 1386530482753_9.mp4","timestamp":"2014-01-31T22:01:15.080Z"}
+{"level":"info","message":"Trying to upload file 1386530482753_9.mp4 123917 bytes","timestamp":"2014-01-31T22:01:15.638Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386530482753_9.mp4","timestamp":"2014-01-31T22:01:15.640Z"}
+{"ETag":"\"4ab7f3fdebf6cd498c5f6a5f2269ea58\"","RequestId":"193B159F836D1590","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:01:16.765Z"}
+{"level":"info","message":"originalFilename 1386530494076_273.mp4","timestamp":"2014-01-31T22:01:18.058Z"}
+{"level":"info","message":"Trying to upload file 1386530494076_273.mp4 906300 bytes","timestamp":"2014-01-31T22:01:18.634Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386530494076_273.mp4","timestamp":"2014-01-31T22:01:18.639Z"}
+{"ETag":"\"7bf1a90f64ed4920d3bf03df09ae33b4\"","RequestId":"4AA4064813945F39","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:01:20.795Z"}
+{"level":"info","message":"originalFilename 1386589913371_485.mp4","timestamp":"2014-01-31T22:01:21.539Z"}
+{"level":"info","message":"Trying to upload file 1386589913371_485.mp4 160293 bytes","timestamp":"2014-01-31T22:01:22.106Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386589913371_485.mp4","timestamp":"2014-01-31T22:01:22.109Z"}
+{"ETag":"\"0d182e95e5ba5e67dfb023c6434272de\"","RequestId":"C6284A0AA32FE269","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:01:23.340Z"}
+{"level":"info","message":"originalFilename 1386589942848_326.mp4","timestamp":"2014-01-31T22:01:24.098Z"}
+{"level":"info","message":"Trying to upload file 1386589942848_326.mp4 112760 bytes","timestamp":"2014-01-31T22:01:24.642Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386589942848_326.mp4","timestamp":"2014-01-31T22:01:24.645Z"}
+{"ETag":"\"ac821e07ef9b6e647bb884998778dc64\"","RequestId":"DE74774D3C92A04C","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:01:25.770Z"}
+{"level":"info","message":"originalFilename 1386590025883_956.mp4","timestamp":"2014-01-31T22:01:26.551Z"}
+{"level":"info","message":"Trying to upload file 1386590025883_956.mp4 81918 bytes","timestamp":"2014-01-31T22:01:27.103Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386590025883_956.mp4","timestamp":"2014-01-31T22:01:27.106Z"}
+{"ETag":"\"a6a69387a29c272f84f12995980cd6df\"","RequestId":"7A2D6FD52AAF7A99","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:01:28.189Z"}
+{"level":"info","message":"originalFilename 1386607381908_639.mp4","timestamp":"2014-01-31T22:01:28.917Z"}
+{"level":"info","message":"Trying to upload file 1386607381908_639.mp4 594346 bytes","timestamp":"2014-01-31T22:01:29.930Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386607381908_639.mp4","timestamp":"2014-01-31T22:01:29.934Z"}
+{"ETag":"\"16aec38b5180657ca5bb34e546f119fb\"","RequestId":"6510E9F0ABF8AFBE","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:01:31.689Z"}
+{"level":"info","message":"originalFilename 1386607522116_461.mp4","timestamp":"2014-01-31T22:01:32.500Z"}
+{"level":"info","message":"Trying to upload file 1386607522116_461.mp4 324248 bytes","timestamp":"2014-01-31T22:01:33.052Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386607522116_461.mp4","timestamp":"2014-01-31T22:01:33.055Z"}
+{"ETag":"\"100306cfb71630cc23375bed6324ad9c\"","RequestId":"14AE97189DD08918","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:01:34.427Z"}
+{"level":"info","message":"originalFilename 1386607611604_598.mp4","timestamp":"2014-01-31T22:01:35.172Z"}
+{"level":"info","message":"Trying to upload file 1386607611604_598.mp4 624994 bytes","timestamp":"2014-01-31T22:01:35.769Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386607611604_598.mp4","timestamp":"2014-01-31T22:01:35.774Z"}
+{"ETag":"\"65e49341b5e4cbfdae3fc4ea17d55a5a\"","RequestId":"3BC3CF27EB9C4D01","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:01:37.569Z"}
+{"level":"info","message":"originalFilename 1386654557337_403.mp4","timestamp":"2014-01-31T22:01:38.330Z"}
+{"level":"info","message":"Trying to upload file 1386654557337_403.mp4 50313 bytes","timestamp":"2014-01-31T22:01:38.925Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386654557337_403.mp4","timestamp":"2014-01-31T22:01:38.927Z"}
+{"ETag":"\"0a302dd4aa724a9fc8a44020114dbbb6\"","RequestId":"AAEF6D2C0C9219E5","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:01:39.924Z"}
+{"level":"info","message":"originalFilename 1386671905465_199.mp4","timestamp":"2014-01-31T22:01:40.682Z"}
+{"level":"info","message":"Trying to upload file 1386671905465_199.mp4 80518 bytes","timestamp":"2014-01-31T22:01:41.259Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386671905465_199.mp4","timestamp":"2014-01-31T22:01:41.261Z"}
+{"ETag":"\"9a0521caf0cbb42616c30c6680b09146\"","RequestId":"F250131F44DA6A63","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:01:42.803Z"}
+{"level":"info","message":"originalFilename 1386671936861_734.mp4","timestamp":"2014-01-31T22:01:43.575Z"}
+{"level":"info","message":"Trying to upload file 1386671936861_734.mp4 716450 bytes","timestamp":"2014-01-31T22:01:44.120Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386671936861_734.mp4","timestamp":"2014-01-31T22:01:44.180Z"}
+{"ETag":"\"84a65591241dda186b9e82ac9bd7ed7b\"","RequestId":"837C4DAB350CF1C0","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:01:46.198Z"}
+{"level":"info","message":"originalFilename 1386672108237_414.mp4","timestamp":"2014-01-31T22:01:46.945Z"}
+{"level":"info","message":"Trying to upload file 1386672108237_414.mp4 297244 bytes","timestamp":"2014-01-31T22:01:47.508Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386672108237_414.mp4","timestamp":"2014-01-31T22:01:47.511Z"}
+{"ETag":"\"ff14d2f645a3a6423ff300e4831dfcd3\"","RequestId":"AE61BD20CD739713","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:01:48.919Z"}
+{"level":"info","message":"originalFilename 1386672799785_157.mp4","timestamp":"2014-01-31T22:01:49.669Z"}
+{"level":"info","message":"Trying to upload file 1386672799785_157.mp4 100988 bytes","timestamp":"2014-01-31T22:01:50.221Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386672799785_157.mp4","timestamp":"2014-01-31T22:01:50.224Z"}
+{"ETag":"\"94553a01a82b9a84f4fc2b41d0d2d07a\"","RequestId":"1C8EFDB19DC43806","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:01:51.340Z"}
+{"level":"info","message":"originalFilename 1386673363503_225.mp4","timestamp":"2014-01-31T22:01:52.073Z"}
+{"level":"info","message":"Trying to upload file 1386673363503_225.mp4 146658 bytes","timestamp":"2014-01-31T22:01:53.087Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386673363503_225.mp4","timestamp":"2014-01-31T22:01:53.090Z"}
+{"ETag":"\"e9549fdca5c4f0b3d52247aecd53b99f\"","RequestId":"6446D9EC0FBD0951","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:01:54.317Z"}
+{"level":"info","message":"originalFilename 1386673482485_67.mp4","timestamp":"2014-01-31T22:01:55.077Z"}
+{"level":"info","message":"Trying to upload file 1386673482485_67.mp4 130759 bytes","timestamp":"2014-01-31T22:01:55.624Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386673482485_67.mp4","timestamp":"2014-01-31T22:01:55.628Z"}
+{"ETag":"\"69daea15494b09ce17c7ce68ce76bd60\"","RequestId":"063646B5101E585F","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:01:56.811Z"}
+{"level":"info","message":"originalFilename 1386673580679_412.mp4","timestamp":"2014-01-31T22:01:57.688Z"}
+{"level":"info","message":"Trying to upload file 1386673580679_412.mp4 161866 bytes","timestamp":"2014-01-31T22:01:58.253Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386673580679_412.mp4","timestamp":"2014-01-31T22:01:58.256Z"}
+{"ETag":"\"98fb7cb4fc861dea09a7cbf5258bbfd2\"","RequestId":"D58894169C5E6559","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:01:59.492Z"}
+{"level":"info","message":"originalFilename 1386673874269_725.mp4","timestamp":"2014-01-31T22:02:00.358Z"}
+{"level":"info","message":"Trying to upload file 1386673874269_725.mp4 128322 bytes","timestamp":"2014-01-31T22:02:00.908Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386673874269_725.mp4","timestamp":"2014-01-31T22:02:00.910Z"}
+{"ETag":"\"0f045060393a86470733926a8e0a2c3d\"","RequestId":"1F28D6F014433BCD","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:02:02.127Z"}
+{"level":"info","message":"originalFilename 1386674040780_156.mp4","timestamp":"2014-01-31T22:02:02.897Z"}
+{"level":"info","message":"Trying to upload file 1386674040780_156.mp4 60415 bytes","timestamp":"2014-01-31T22:02:03.850Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386674040780_156.mp4","timestamp":"2014-01-31T22:02:03.854Z"}
+{"ETag":"\"0a2ffaa01a55a4e8eebc8b62f78f75e2\"","RequestId":"9497873AC0CB06D2","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:02:04.849Z"}
+{"level":"info","message":"originalFilename 1386674247355_838.mp4","timestamp":"2014-01-31T22:02:05.607Z"}
+{"level":"info","message":"Trying to upload file 1386674247355_838.mp4 124614 bytes","timestamp":"2014-01-31T22:02:06.161Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386674247355_838.mp4","timestamp":"2014-01-31T22:02:06.202Z"}
+{"ETag":"\"5d2362df766734e2e07693f6fc4d33ca\"","RequestId":"1FF9EEF599537B9F","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:02:07.388Z"}
+{"level":"info","message":"originalFilename 1386674323019_176.mp4","timestamp":"2014-01-31T22:02:08.157Z"}
+{"level":"info","message":"Trying to upload file 1386674323019_176.mp4 113055 bytes","timestamp":"2014-01-31T22:02:08.706Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386674323019_176.mp4","timestamp":"2014-01-31T22:02:08.709Z"}
+{"ETag":"\"98cba0f511cf984f62b86f6fe897eb1d\"","RequestId":"4AD94E67B70DD179","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:02:09.928Z"}
+{"level":"info","message":"originalFilename 1386703382115_976.mp4","timestamp":"2014-01-31T22:02:10.652Z"}
+{"level":"info","message":"Trying to upload file 1386703382115_976.mp4 70575 bytes","timestamp":"2014-01-31T22:02:11.208Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386703382115_976.mp4","timestamp":"2014-01-31T22:02:11.210Z"}
+{"ETag":"\"9f48bfd1b68bb713b076ed8c2ee20aae\"","RequestId":"F8FB899BFB665BF8","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:02:12.311Z"}
+{"level":"info","message":"originalFilename 1386703406061_535.mp4","timestamp":"2014-01-31T22:02:13.122Z"}
+{"level":"info","message":"Trying to upload file 1386703406061_535.mp4 102579 bytes","timestamp":"2014-01-31T22:02:13.744Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386703406061_535.mp4","timestamp":"2014-01-31T22:02:13.746Z"}
+{"ETag":"\"e9e935ebab62bcd434e4fcecc54e5105\"","RequestId":"6AE77CF0A6E0ADAB","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:02:15.304Z"}
+{"level":"info","message":"originalFilename 1386710943419_277.mp4","timestamp":"2014-01-31T22:02:16.115Z"}
+{"level":"info","message":"Trying to upload file 1386710943419_277.mp4 213477 bytes","timestamp":"2014-01-31T22:02:16.673Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386710943419_277.mp4","timestamp":"2014-01-31T22:02:16.676Z"}
+{"ETag":"\"448d3e13a50cddc4827d5fb34db28e7a\"","RequestId":"DF2D2280620EBD70","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:02:17.976Z"}
+{"level":"info","message":"originalFilename 1386710948578_774.mp4","timestamp":"2014-01-31T22:02:19.182Z"}
+{"level":"info","message":"Trying to upload file 1386710948578_774.mp4 47122 bytes","timestamp":"2014-01-31T22:02:19.741Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386710948578_774.mp4","timestamp":"2014-01-31T22:02:19.744Z"}
+{"ETag":"\"18086a5a08a44f9abba8dd3910cdcf4c\"","RequestId":"213A23DF0C57CD68","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:02:20.684Z"}
+{"level":"info","message":"originalFilename 1386710952498_545.mp4","timestamp":"2014-01-31T22:02:21.530Z"}
+{"level":"info","message":"Trying to upload file 1386710952498_545.mp4 107319 bytes","timestamp":"2014-01-31T22:02:22.088Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386710952498_545.mp4","timestamp":"2014-01-31T22:02:22.090Z"}
+{"ETag":"\"65c945d7df575e5cd8aeac9a30f2fa79\"","RequestId":"72ED066FA1C17803","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:02:23.182Z"}
+{"level":"info","message":"originalFilename 1386715580639_896.mp4","timestamp":"2014-01-31T22:02:23.938Z"}
+{"level":"info","message":"Trying to upload file 1386715580639_896.mp4 141822 bytes","timestamp":"2014-01-31T22:02:24.498Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386715580639_896.mp4","timestamp":"2014-01-31T22:02:24.501Z"}
+{"ETag":"\"cbfb632df5af6db1499b6a60bc7319de\"","RequestId":"8A051A73BD2C6C59","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:02:25.728Z"}
+{"level":"info","message":"originalFilename 1386717010188_209.mp4","timestamp":"2014-01-31T22:02:26.497Z"}
+{"level":"info","message":"Trying to upload file 1386717010188_209.mp4 155708 bytes","timestamp":"2014-01-31T22:02:27.056Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386717010188_209.mp4","timestamp":"2014-01-31T22:02:27.060Z"}
+{"ETag":"\"501cf51a78fc4f2c3f792c2701fde227\"","RequestId":"4AA062DE84AAE2DA","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:02:28.286Z"}
+{"level":"info","message":"originalFilename 1386717195271_51.mp4","timestamp":"2014-01-31T22:02:29.043Z"}
+{"level":"info","message":"Trying to upload file 1386717195271_51.mp4 272435 bytes","timestamp":"2014-01-31T22:02:29.599Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386717195271_51.mp4","timestamp":"2014-01-31T22:02:29.603Z"}
+{"ETag":"\"49d010a0e337111f0399f7d771eab782\"","RequestId":"CA0A7D99D0291430","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:02:30.958Z"}
+{"level":"info","message":"originalFilename 1386717355205_446.mp4","timestamp":"2014-01-31T22:02:31.676Z"}
+{"level":"info","message":"Trying to upload file 1386717355205_446.mp4 163369 bytes","timestamp":"2014-01-31T22:02:32.240Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386717355205_446.mp4","timestamp":"2014-01-31T22:02:32.243Z"}
+{"ETag":"\"e5d5db569c7e33edccc4469b159489da\"","RequestId":"646C4AF5CCE93EF7","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:02:33.470Z"}
+{"level":"info","message":"originalFilename 1386718284900_925.mp4","timestamp":"2014-01-31T22:02:34.220Z"}
+{"level":"info","message":"Trying to upload file 1386718284900_925.mp4 62769 bytes","timestamp":"2014-01-31T22:02:34.774Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386718284900_925.mp4","timestamp":"2014-01-31T22:02:34.780Z"}
+{"ETag":"\"27ad21c8d607e81816649a867940a2a9\"","RequestId":"455885C93C6C0B42","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:02:35.772Z"}
+{"level":"info","message":"originalFilename 1386718346799_254.mp4","timestamp":"2014-01-31T22:02:36.601Z"}
+{"level":"info","message":"Trying to upload file 1386718346799_254.mp4 54826 bytes","timestamp":"2014-01-31T22:02:37.160Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386718346799_254.mp4","timestamp":"2014-01-31T22:02:37.162Z"}
+{"ETag":"\"03d0ba1e2ff1e125e215bbdc3f41de19\"","RequestId":"05307D26DBC907CD","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:02:38.164Z"}
+{"level":"info","message":"originalFilename 1386743615787_932.mp4","timestamp":"2014-01-31T22:02:38.914Z"}
+{"level":"info","message":"Trying to upload file 1386743615787_932.mp4 57508 bytes","timestamp":"2014-01-31T22:02:39.503Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386743615787_932.mp4","timestamp":"2014-01-31T22:02:39.505Z"}
+{"ETag":"\"355ac9ff819bacbef22106be66c05983\"","RequestId":"AA737E7D4CD03BEB","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:02:40.492Z"}
+{"level":"info","message":"originalFilename 1386745241236_938.mp4","timestamp":"2014-01-31T22:02:41.260Z"}
+{"level":"info","message":"Trying to upload file 1386745241236_938.mp4 13540 bytes","timestamp":"2014-01-31T22:02:41.825Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386745241236_938.mp4","timestamp":"2014-01-31T22:02:41.828Z"}
+{"ETag":"\"32bf7c74e1642226c88f152b26524771\"","RequestId":"57AA8FD5FB5582AF","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:02:42.661Z"}
+{"level":"info","message":"originalFilename 1386746087235_304.mp4","timestamp":"2014-01-31T22:02:43.463Z"}
+{"level":"info","message":"Trying to upload file 1386746087235_304.mp4 14972 bytes","timestamp":"2014-01-31T22:02:44.011Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386746087235_304.mp4","timestamp":"2014-01-31T22:02:44.013Z"}
+{"ETag":"\"af815d8fa23c3daa3584b5bc795870fd\"","RequestId":"39D125AD586B4EEC","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:02:44.857Z"}
+{"level":"info","message":"originalFilename 1386755954040_479.mp4","timestamp":"2014-01-31T22:02:45.635Z"}
+{"level":"info","message":"Trying to upload file 1386755954040_479.mp4 63760 bytes","timestamp":"2014-01-31T22:02:46.227Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386755954040_479.mp4","timestamp":"2014-01-31T22:02:46.229Z"}
+{"ETag":"\"f1479f979585485c9c0a0124a3de6b08\"","RequestId":"7D6C1522F6CE5DB0","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:02:47.258Z"}
+{"level":"info","message":"originalFilename 1386756005819_615.mp4","timestamp":"2014-01-31T22:02:48.033Z"}
+{"level":"info","message":"Trying to upload file 1386756005819_615.mp4 10826 bytes","timestamp":"2014-01-31T22:02:48.593Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386756005819_615.mp4","timestamp":"2014-01-31T22:02:48.640Z"}
+{"ETag":"\"0869e3e4ead8d7b237c734d0ba801d2e\"","RequestId":"92628486D221A35F","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:02:49.353Z"}
+{"level":"info","message":"originalFilename 1386756101809_589.mp4","timestamp":"2014-01-31T22:02:50.139Z"}
+{"level":"info","message":"Trying to upload file 1386756101809_589.mp4 60394 bytes","timestamp":"2014-01-31T22:02:50.762Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386756101809_589.mp4","timestamp":"2014-01-31T22:02:50.766Z"}
+{"ETag":"\"474e843a0128ef851f2d796a0cff3709\"","RequestId":"2599AAF92E200175","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:02:52.203Z"}
+{"level":"info","message":"originalFilename 1386756586427_2.mp4","timestamp":"2014-01-31T22:02:52.924Z"}
+{"level":"info","message":"Trying to upload file 1386756586427_2.mp4 30646 bytes","timestamp":"2014-01-31T22:02:53.488Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386756586427_2.mp4","timestamp":"2014-01-31T22:02:53.497Z"}
+{"ETag":"\"d16a05a7c2abdbcf8e0141da22d38d57\"","RequestId":"D105D8637EF10996","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:02:54.348Z"}
+{"level":"info","message":"originalFilename 1386756655085_197.mp4","timestamp":"2014-01-31T22:02:55.121Z"}
+{"level":"info","message":"Trying to upload file 1386756655085_197.mp4 44305 bytes","timestamp":"2014-01-31T22:02:55.716Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386756655085_197.mp4","timestamp":"2014-01-31T22:02:55.720Z"}
+{"ETag":"\"280c77bde9540c0db5c1257258c92e57\"","RequestId":"F2324D24BAA2FDB8","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:02:57.028Z"}
+{"level":"info","message":"originalFilename 1386756952602_820.mp4","timestamp":"2014-01-31T22:02:57.752Z"}
+{"level":"info","message":"Trying to upload file 1386756952602_820.mp4 128352 bytes","timestamp":"2014-01-31T22:02:58.369Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386756952602_820.mp4","timestamp":"2014-01-31T22:02:58.373Z"}
+{"ETag":"\"d38e3b82a558eece59128ef87e2271a8\"","RequestId":"FE391C20A4E9D748","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:02:59.502Z"}
+{"level":"info","message":"originalFilename 1386756961937_251.mp4","timestamp":"2014-01-31T22:03:00.230Z"}
+{"level":"info","message":"Trying to upload file 1386756961937_251.mp4 60206 bytes","timestamp":"2014-01-31T22:03:00.794Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386756961937_251.mp4","timestamp":"2014-01-31T22:03:00.797Z"}
+{"ETag":"\"d8bef20edc0ffb658894bef7bdd11218\"","RequestId":"EFFA85C4352CC0D8","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:03:01.789Z"}
+{"level":"info","message":"originalFilename 1386760440863_427.mp4","timestamp":"2014-01-31T22:03:02.510Z"}
+{"level":"info","message":"Trying to upload file 1386760440863_427.mp4 46699 bytes","timestamp":"2014-01-31T22:03:03.085Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386760440863_427.mp4","timestamp":"2014-01-31T22:03:03.088Z"}
+{"ETag":"\"011ac13f24f76bcf88ebbdd8e69f9725\"","RequestId":"58648DFDFCD1F6A6","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:03:04.219Z"}
+{"level":"info","message":"originalFilename 1386764257971_472.mp4","timestamp":"2014-01-31T22:03:04.997Z"}
+{"level":"info","message":"Trying to upload file 1386764257971_472.mp4 52705 bytes","timestamp":"2014-01-31T22:03:06.007Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386764257971_472.mp4","timestamp":"2014-01-31T22:03:06.012Z"}
+{"ETag":"\"d3bf9d05f92a4f5df189da283bfaff7a\"","RequestId":"E906F246CA63ABA0","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:03:06.963Z"}
+{"level":"info","message":"originalFilename 1386764310137_997.mp4","timestamp":"2014-01-31T22:03:07.771Z"}
+{"level":"info","message":"Trying to upload file 1386764310137_997.mp4 50503 bytes","timestamp":"2014-01-31T22:03:08.328Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386764310137_997.mp4","timestamp":"2014-01-31T22:03:08.332Z"}
+{"ETag":"\"b3b38a9bee88b090d27ae09674c5c93e\"","RequestId":"0F8A78EC43847309","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:03:09.277Z"}
+{"level":"info","message":"originalFilename 1386767522754_140.mp4","timestamp":"2014-01-31T22:03:10.109Z"}
+{"level":"info","message":"Trying to upload file 1386767522754_140.mp4 32148 bytes","timestamp":"2014-01-31T22:03:10.673Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386767522754_140.mp4","timestamp":"2014-01-31T22:03:10.676Z"}
+{"ETag":"\"a889b88c398020318d396d5325f9c9e8\"","RequestId":"A7E7FE183E121784","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:03:11.749Z"}
+{"level":"info","message":"originalFilename 1386839180958_157.mp4","timestamp":"2014-01-31T22:03:12.548Z"}
+{"level":"info","message":"Trying to upload file 1386839180958_157.mp4 38560 bytes","timestamp":"2014-01-31T22:03:13.115Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386839180958_157.mp4","timestamp":"2014-01-31T22:03:13.118Z"}
+{"ETag":"\"3b3b8b7ee2863721effcb0324da4ec52\"","RequestId":"74EF25FADCB39DA9","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:03:14.062Z"}
+{"level":"info","message":"originalFilename 1386839371655_31.mp4","timestamp":"2014-01-31T22:03:14.770Z"}
+{"level":"info","message":"Trying to upload file 1386839371655_31.mp4 52292 bytes","timestamp":"2014-01-31T22:03:15.342Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386839371655_31.mp4","timestamp":"2014-01-31T22:03:15.348Z"}
+{"ETag":"\"9ecc5cd32b8fd20d81c59ad7e20eca62\"","RequestId":"765BC507FA8B5057","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:03:16.291Z"}
+{"level":"info","message":"originalFilename 1386839490539_887.mp4","timestamp":"2014-01-31T22:03:17.071Z"}
+{"level":"info","message":"Trying to upload file 1386839490539_887.mp4 78963 bytes","timestamp":"2014-01-31T22:03:17.620Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386839490539_887.mp4","timestamp":"2014-01-31T22:03:17.623Z"}
+{"ETag":"\"7d4e9cc6bd79908524048865e59e6a6c\"","RequestId":"A5BBCB9ED4ABA008","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:03:18.705Z"}
+{"level":"info","message":"originalFilename 1386839649172_350.mp4","timestamp":"2014-01-31T22:03:19.988Z"}
+{"level":"info","message":"Trying to upload file 1386839649172_350.mp4 63935 bytes","timestamp":"2014-01-31T22:03:20.555Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386839649172_350.mp4","timestamp":"2014-01-31T22:03:20.572Z"}
+{"ETag":"\"0b7d71e07dec12cd59abdeddc06aa3d7\"","RequestId":"A82ABE88202549EC","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:03:21.564Z"}
+{"level":"info","message":"originalFilename 1386841232716_166.mp4","timestamp":"2014-01-31T22:03:22.308Z"}
+{"level":"info","message":"Trying to upload file 1386841232716_166.mp4 22346 bytes","timestamp":"2014-01-31T22:03:22.868Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386841232716_166.mp4","timestamp":"2014-01-31T22:03:22.871Z"}
+{"ETag":"\"67c055eebb57748de37bcf310ae6cd7e\"","RequestId":"E6E42F846A7E1A03","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:03:23.750Z"}
+{"level":"info","message":"originalFilename 1386931002994_938.mp4","timestamp":"2014-01-31T22:03:24.487Z"}
+{"level":"info","message":"Trying to upload file 1386931002994_938.mp4 59509 bytes","timestamp":"2014-01-31T22:03:25.051Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386931002994_938.mp4","timestamp":"2014-01-31T22:03:25.054Z"}
+{"ETag":"\"0b6ab20b96d08956ffb127a9b37957ae\"","RequestId":"F1FC2B5A2BFFB1AC","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:03:26.080Z"}
+{"level":"info","message":"originalFilename 1386931613_1511.mp4","timestamp":"2014-01-31T22:03:26.859Z"}
+{"level":"info","message":"Trying to upload file 1386931613_1511.mp4 3771577 bytes","timestamp":"2014-01-31T22:03:27.408Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386931613_1511.mp4","timestamp":"2014-01-31T22:03:27.423Z"}
+{"ETag":"\"77f7344d77e4fee542c92741756670cc\"","RequestId":"7F5E8E8189B8A8E2","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:03:31.207Z"}
+{"level":"info","message":"originalFilename 1386932027_1512.mp4","timestamp":"2014-01-31T22:03:32.031Z"}
+{"level":"info","message":"Trying to upload file 1386932027_1512.mp4 3771577 bytes","timestamp":"2014-01-31T22:03:32.579Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386932027_1512.mp4","timestamp":"2014-01-31T22:03:32.627Z"}
+{"ETag":"\"77f7344d77e4fee542c92741756670cc\"","RequestId":"FFBABEE950806688","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:03:36.386Z"}
+{"level":"info","message":"originalFilename 1386933248097_214.mp4","timestamp":"2014-01-31T22:03:37.220Z"}
+{"level":"info","message":"Trying to upload file 1386933248097_214.mp4 68904 bytes","timestamp":"2014-01-31T22:03:37.781Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386933248097_214.mp4","timestamp":"2014-01-31T22:03:37.785Z"}
+{"ETag":"\"2e9f012b2b152089f4d914c9b8f8effe\"","RequestId":"A8F85E6271A76512","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:03:38.849Z"}
+{"level":"info","message":"originalFilename 1386933879_3144.mp4","timestamp":"2014-01-31T22:03:39.617Z"}
+{"level":"info","message":"Trying to upload file 1386933879_3144.mp4 3771577 bytes","timestamp":"2014-01-31T22:03:40.212Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386933879_3144.mp4","timestamp":"2014-01-31T22:03:40.227Z"}
+{"ETag":"\"77f7344d77e4fee542c92741756670cc\"","RequestId":"55609184388D70ED","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:03:44.026Z"}
+{"level":"info","message":"originalFilename 1386934580_855.mp4","timestamp":"2014-01-31T22:03:44.784Z"}
+{"level":"info","message":"Trying to upload file 1386934580_855.mp4 721032 bytes","timestamp":"2014-01-31T22:03:45.373Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386934580_855.mp4","timestamp":"2014-01-31T22:03:45.377Z"}
+{"ETag":"\"8d4ba647aaf5cfb46985ea7224de131a\"","RequestId":"22B2D5F9BD1A5072","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:03:47.391Z"}
+{"level":"info","message":"originalFilename 1386934915_856.mp4","timestamp":"2014-01-31T22:03:48.156Z"}
+{"level":"info","message":"Trying to upload file 1386934915_856.mp4 871434 bytes","timestamp":"2014-01-31T22:03:48.697Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1386934915_856.mp4","timestamp":"2014-01-31T22:03:48.701Z"}
+{"ETag":"\"cf0007621b06c834e9f6125ee93d39d0\"","RequestId":"3E07485F36207479","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:03:50.767Z"}
+{"level":"info","message":"originalFilename 1387027393456_283.mp4","timestamp":"2014-01-31T22:03:51.539Z"}
+{"level":"info","message":"Trying to upload file 1387027393456_283.mp4 53754 bytes","timestamp":"2014-01-31T22:03:52.135Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1387027393456_283.mp4","timestamp":"2014-01-31T22:03:52.137Z"}
+{"ETag":"\"5af5bad9d0ee4a1601867f2ebcedc4c3\"","RequestId":"41A9955011392DF4","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:03:53.098Z"}
+{"level":"info","message":"originalFilename 1387027517068_592.mp4","timestamp":"2014-01-31T22:03:53.901Z"}
+{"level":"info","message":"Trying to upload file 1387027517068_592.mp4 39053 bytes","timestamp":"2014-01-31T22:03:54.458Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1387027517068_592.mp4","timestamp":"2014-01-31T22:03:54.461Z"}
+{"ETag":"\"4aa8ca1470a3c0145e566495b4225a4f\"","RequestId":"E2C7D559E0932E3D","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:03:55.393Z"}
+{"level":"info","message":"originalFilename 1387027892053_533.mp4","timestamp":"2014-01-31T22:03:56.139Z"}
+{"level":"info","message":"Trying to upload file 1387027892053_533.mp4 13718 bytes","timestamp":"2014-01-31T22:03:56.676Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1387027892053_533.mp4","timestamp":"2014-01-31T22:03:56.679Z"}
+{"ETag":"\"8634f8d6af4cf88fc54a38a2d4528cb7\"","RequestId":"AA459F46EB95C4F4","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:03:57.519Z"}
+{"level":"info","message":"originalFilename 1387166791912_554.mp4","timestamp":"2014-01-31T22:03:58.289Z"}
+{"level":"info","message":"Trying to upload file 1387166791912_554.mp4 1352948 bytes","timestamp":"2014-01-31T22:03:58.840Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1387166791912_554.mp4","timestamp":"2014-01-31T22:03:58.847Z"}
+{"ETag":"\"fea5e9b9626a18a695486a0fe90bb162\"","RequestId":"70D182656FD3ABEA","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:04:01.285Z"}
+{"level":"info","message":"originalFilename 1387168302345_247.mp4","timestamp":"2014-01-31T22:04:02.033Z"}
+{"level":"info","message":"Trying to upload file 1387168302345_247.mp4 1072 bytes","timestamp":"2014-01-31T22:04:02.580Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1387168302345_247.mp4","timestamp":"2014-01-31T22:04:02.582Z"}
+{"ETag":"\"e66017931e0519b517ac3ee6379001cb\"","RequestId":"40509C3D9C42F79D","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:04:03.175Z"}
+{"level":"info","message":"originalFilename 1387169200410_780.mp4","timestamp":"2014-01-31T22:04:03.919Z"}
+{"level":"info","message":"Trying to upload file 1387169200410_780.mp4 164219 bytes","timestamp":"2014-01-31T22:04:04.469Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1387169200410_780.mp4","timestamp":"2014-01-31T22:04:04.472Z"}
+{"ETag":"\"b305a4c28b47f7133d61f2517711aaf2\"","RequestId":"00D17B25F9E9581A","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:04:05.716Z"}
+{"level":"info","message":"originalFilename 1387169270861_247.mp4","timestamp":"2014-01-31T22:04:06.460Z"}
+{"level":"info","message":"Trying to upload file 1387169270861_247.mp4 11474 bytes","timestamp":"2014-01-31T22:04:07.511Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1387169270861_247.mp4","timestamp":"2014-01-31T22:04:07.514Z"}
+{"ETag":"\"50239de4f76e88303af82ecb20847f90\"","RequestId":"5FD0DD4DBDB6C64D","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:04:08.411Z"}
+{"level":"info","message":"originalFilename 1387171098037_996.mp4","timestamp":"2014-01-31T22:04:09.246Z"}
+{"level":"info","message":"Trying to upload file 1387171098037_996.mp4 19873 bytes","timestamp":"2014-01-31T22:04:09.847Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1387171098037_996.mp4","timestamp":"2014-01-31T22:04:09.850Z"}
+{"ETag":"\"b9708e5778812cc44654054cf8caa6bf\"","RequestId":"85E23A7D90D9C3CB","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:04:10.698Z"}
+{"level":"info","message":"originalFilename 1387171418795_68.mp4","timestamp":"2014-01-31T22:04:11.462Z"}
+{"level":"info","message":"Trying to upload file 1387171418795_68.mp4 58076 bytes","timestamp":"2014-01-31T22:04:12.055Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1387171418795_68.mp4","timestamp":"2014-01-31T22:04:12.057Z"}
+{"ETag":"\"664c71adfd32408bb9fe0b8b9a8caef5\"","RequestId":"6228F761A1DC7B83","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:04:13.028Z"}
+{"level":"info","message":"originalFilename 1387171609538_817.mp4","timestamp":"2014-01-31T22:04:13.778Z"}
+{"level":"info","message":"Trying to upload file 1387171609538_817.mp4 76293 bytes","timestamp":"2014-01-31T22:04:14.325Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1387171609538_817.mp4","timestamp":"2014-01-31T22:04:14.327Z"}
+{"ETag":"\"078cd39024b256d5f1c1e51ba250e054\"","RequestId":"572B4D08E3C8999C","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:04:15.400Z"}
+{"level":"info","message":"originalFilename 1387171909938_114.mp4","timestamp":"2014-01-31T22:04:16.160Z"}
+{"level":"info","message":"Trying to upload file 1387171909938_114.mp4 96144 bytes","timestamp":"2014-01-31T22:04:16.718Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1387171909938_114.mp4","timestamp":"2014-01-31T22:04:16.720Z"}
+{"ETag":"\"31196f83e2d21f6a018c4568386f6ddd\"","RequestId":"C35C4718CA3903DC","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:04:17.933Z"}
+{"level":"info","message":"originalFilename 1387172140000_71.mp4","timestamp":"2014-01-31T22:04:18.774Z"}
+{"level":"info","message":"Trying to upload file 1387172140000_71.mp4 65569 bytes","timestamp":"2014-01-31T22:04:19.388Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1387172140000_71.mp4","timestamp":"2014-01-31T22:04:19.391Z"}
+{"ETag":"\"8a45a9e699e6f766541c8646bbda6705\"","RequestId":"7B5042E3AA07E26A","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:04:20.387Z"}
+{"level":"info","message":"originalFilename 1387172228539_672.mp4","timestamp":"2014-01-31T22:04:21.635Z"}
+{"level":"info","message":"Trying to upload file 1387172228539_672.mp4 1199785 bytes","timestamp":"2014-01-31T22:04:22.205Z"}
+{"level":"info","message":"successfully deleted /Volumes/DATA/projects/angus lancaster/S3uploaderAndElasticTranscoder/../v/1387172228539_672.mp4","timestamp":"2014-01-31T22:04:22.211Z"}
+{"ETag":"\"0dbbc31019169bf4eed717ecdc64aec8\"","RequestId":"F64A78EE267BE5B2","level":"info","message":"Successfully uploaded package.\n","timestamp":"2014-01-31T22:04:24.534Z"}
+{"level":"info","message":"originalFilename 1387172340767_907.mp4","timestamp":"2014-01-31T22:04:25.343Z"}
