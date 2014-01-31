@@ -18,26 +18,28 @@ var fullFilename = "demo.flv";
 if(process.argv.length>=3)
    fullFilename = process.argv[2];
 
-fs.readFile(fullFilename, function(err,data){
-   if (err) { throw err; }
-   
-   var originalFilename = fullFilename.split('/').pop();
-   winston.info('originalFilename',originalFilename);
+function processFile(fullFilename,cb){
+   fs.readFile(fullFilename, function(err,data){
+      if (err) { throw err; }
+      
+      var originalFilename = fullFilename.split('/').pop();
+      winston.info('originalFilename',originalFilename);
 
-   s3.client.headObject({
-      Bucket: config.S3.input,
-      Key: originalFilename
-   },function(err,response){
-      if(!err && response['ContentLength']){
-         winston.info('looks like file exists already',response);
-         uploadFile(fullFilename,new Date().getTime() + "-" + originalFilename,data);
-      }else{
-         uploadFile(fullFilename,originalFilename,data);
-      }
-   })
-});
+      s3.client.headObject({
+         Bucket: config.S3.input,
+         Key: originalFilename
+      },function(err,response){
+         if(!err && response['ContentLength']){
+            winston.info('looks like file exists already',response);
+            uploadFile(fullFilename,new Date().getTime() + "-" + originalFilename,data,cb);
+         }else{
+            uploadFile(fullFilename,originalFilename,data,cb);
+         }
+      })
+   });
+}
 
-function uploadFile(fullFilename,filename,data){
+function uploadFile(fullFilename,filename,data,cb){
    fs.unlink(fullFilename, function (err) {
       if (err) throw err;
       winston.info('successfully deleted',fullFilename);
@@ -50,8 +52,16 @@ function uploadFile(fullFilename,filename,data){
    },function (err,data) {
       if(!err){
          winston.info('Successfully uploaded package.\n',data);
-         new ElasticTranscoder(AWS,config,filename);
+         new ElasticTranscoder(AWS,config,filename,cb);
       }else
-         throw err;
+         cb(err);
    });
 }
+
+function test(test){
+   console.log(test);
+}
+
+// uncomment this to process file
+// processFile(fullFilename);
+module.exports.processFile = processFile;

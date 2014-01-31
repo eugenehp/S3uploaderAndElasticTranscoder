@@ -1,4 +1,4 @@
-module.exports = function(AWS, config, filename){
+module.exports = function(AWS, config, filename, cb){
    var elastictranscoder = new AWS.ElasticTranscoder({apiVersion: '2012-09-25'});
 
    var originalFilename = filename
@@ -86,7 +86,7 @@ module.exports = function(AWS, config, filename){
          console.log('Success',data);
    }
 
-   elastictranscoder.createJob(params, callback);
+   elastictranscoder.createJob(params, cb);
    // elastictranscoder.listPipelines({},callback);
    // elastictranscoder.readJob({Id:"1391012229363-mokb38"},callback);
 };
