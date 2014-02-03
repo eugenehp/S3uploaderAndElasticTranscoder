@@ -1,7 +1,7 @@
 module.exports = function(AWS, config, filename, cb){
    var elastictranscoder = new AWS.ElasticTranscoder({apiVersion: '2012-09-25'});
 
-   var originalFilename = filename
+   var originalFilename = filename;
    var filename = originalFilename.split('.')[0];
 
    var params = {

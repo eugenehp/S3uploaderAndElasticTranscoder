@@ -1,4 +1,6 @@
 {
+	"input":"celebvm-video",
+	"output":"celebvm-input-video",
 	"S3":{
 		"input": "celebvm-input-video",
 		"output": "celebvm-output-video"

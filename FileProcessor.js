@@ -13,13 +13,6 @@ winston.add(winston.transports.FileRotateDate, {
     , dirname: "logs"
 });
 
-
-var fullFilename = "demo.flv";
-
-if(process.argv.length>=3)
-   fullFilename = process.argv[2];
-
-
 function processFile(fullFilename,cb){
    fs.readFile(fullFilename, function(err,data){
       if (err) { throw err; }
@@ -64,6 +57,4 @@ function test(test){
    console.log(test);
 }
 
-// uncomment this to process file
-processFile(fullFilename);
 module.exports.processFile = processFile;
