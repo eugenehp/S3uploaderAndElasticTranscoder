@@ -40,13 +40,15 @@ function recursive(Marker){
 
 function processArray(array){
 	for(var i in array){
-		var file = array[i]
+		var file = array[i];
+		processFile(file);
 	}
 }
 
 function processFile(file){
 	var filename = file['Key'];
 	if(filename.toLowerCase().indexOf('.mp4')!=-1){
+		console.log(filename);
 		async.waterfall([
 			function(callback){
 				copyFile(file,function(err,data){
