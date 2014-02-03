@@ -102,4 +102,11 @@ function deleteFile(file,cb){
 	s3.deleteObject(params,cb);
 }
 
-recursive();
+function init(){
+	console.log('=============================');
+	console.log(new Date());
+	console.log('=============================');
+	recursive();
+	setTimeout(init,60*1000);
+}
+init();
