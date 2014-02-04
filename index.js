@@ -48,6 +48,7 @@ function uploadFile(fullFilename,filename,data,cb){
    });
    winston.info("Trying to upload file",filename,data.length,'bytes');
    s3.client.putObject({
+      ACL:"public-read",
       Bucket: config.S3.input,
       Key: filename,
       Body: data
