@@ -65,6 +65,7 @@ function test(test){
    console.log(test);
 }
 
-// uncomment this to process file
-processFile(fullFilename);
+processFile(fullFilename,function(err,data){
+   console.log('processing the file',err,data)
+});
 module.exports.processFile = processFile;
