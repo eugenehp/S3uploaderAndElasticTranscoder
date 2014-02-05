@@ -87,7 +87,7 @@ function copyFile(file,cb){
 		CopySource:sourceFilename,
 		ACL:"public-read",
 		Bucket:config.output,
-		Key:filename,
+		Key:filename.toLowerCase(),
 	};
 
 	s3.copyObject(params,cb);
