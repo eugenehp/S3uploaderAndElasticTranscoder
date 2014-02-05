@@ -107,6 +107,6 @@ function init(){
 	console.log(new Date());
 	console.log('=============================');
 	recursive();
-	setTimeout(init,60*1000);
+	setTimeout(init,10*1000);
 }
 init();
