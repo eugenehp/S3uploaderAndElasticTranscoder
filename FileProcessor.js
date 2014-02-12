@@ -43,6 +43,11 @@ function uploadFile(fullFilename,filename,data,cb){
    s3.client.putObject({
       Bucket: config.S3.input,
       Key: filename,
+      Metadata: {
+         'Content-Disposition':'attachment',
+         'Content-Type':'application/octet-stream'
+         // 'Content-Type':'video/mp4'
+      },
       Body: data
    },function (err,data) {
       if(!err){

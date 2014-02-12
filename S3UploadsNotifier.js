@@ -87,6 +87,12 @@ function copyFile(file,cb){
 		CopySource:sourceFilename,
 		ACL:"public-read",
 		Bucket:config.output,
+		MetadataDirective:'REPLACE',
+		Metadata: {
+			'Content-Disposition':'attachment',
+			'Content-Type':'application/octet-stream'
+			// 'Content-Type':'video/mp4'
+		},
 		Key:filename.toLowerCase(),
 	};
 
